@@ -1,4 +1,5 @@
 # 10X-Visium-Analysis-for-Spatial-Mapping-of-Gene-Expressions
+![Visium workflow](https://github.com/inhyeoklee/10X-Visium-Analysis-for-Spatial-Mapping-of-Gene-Expressions/assets/8275926/8fc2e426-c00a-4559-9eca-86c8429822bf)
 
 **1. Environment Setup**
 Ensure you have all the required libraries installed. This notebook primarily uses scanpy, so ensure it's installed in your environment. You can also check the environment summary for a list of packages and versions.
